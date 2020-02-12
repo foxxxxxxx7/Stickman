@@ -2,7 +2,9 @@
 Stickman minding his own business walking back and forth
 
 Name : Robert Fox
+
 Student Number:20088034
+
 Programme Name: Stickman
 
 
